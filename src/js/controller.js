@@ -143,3 +143,7 @@ const showRecipe = async function () {
 console.log('shit');
 
 showRecipe();
+
+function newFeature() {
+  console.log('Welcome to new Feature');
+}
